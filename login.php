@@ -1,3 +1,3 @@
 <?php
-// Nothing to see
+// Nothing to see here
 ?>
