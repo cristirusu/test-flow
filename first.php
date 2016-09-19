@@ -3,4 +3,6 @@
 echo 'TEST';
 // Setting i to C
 $i = 'C';
+
+$k = 33;
 ?>
