@@ -4,5 +4,5 @@ echo 'TEST';
 // Setting i to C
 $i = 'C';
 
-$k = 33;
+$m = 100;
 ?>
