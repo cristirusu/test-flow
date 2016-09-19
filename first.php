@@ -1,6 +1,6 @@
 <?php
 
 echo 'TEST';
-// Setting i to A
-$i = 'A';
+// Setting i to B
+$i = 'B';
 ?>
