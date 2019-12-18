@@ -3,3 +3,6 @@
 function init() {
 }
 
+function initFeatureA() {
+}
+
