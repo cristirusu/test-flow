@@ -1,4 +1,9 @@
 div {
+    background-color: white;
     color: #f00;
+}
+
+span {
+    background-color: #345;
 }
 
