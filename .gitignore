@@ -1,0 +1,13 @@
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+*.sql
+.sass-cache/
+.lando/create-wp-config.php
+*node_modules*
+wp-content/vendor/sebastian/diff/tests/
+wp-content/vendor/symfony/console/Resources/bin/hiddeninput.exe
+
