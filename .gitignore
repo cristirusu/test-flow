@@ -10,4 +10,5 @@
 *node_modules*
 wp-content/vendor/sebastian/diff/tests/
 wp-content/vendor/symfony/console/Resources/bin/hiddeninput.exe
+wp-content/node_modules/
 
